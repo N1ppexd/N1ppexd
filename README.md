@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm N1ppexd 👋
 
-<!--
-**N1ppexd/N1ppexd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a developer working on web applications and game-related projects.
 
-Here are some ideas to get you started:
+## Technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+JavaScript · TypeScript · ShaderLab
+
+## Selected projects
+
+- [Movie-group16 frontend](https://github.com/Movie-group16/frontend)
+- [Movie-group16 backend](https://github.com/Movie-group16/backend)
+- [N1PathGen](https://github.com/N1ppexd/N1PathGen)
+- [RubiksCube](https://github.com/N1ppexd/RubiksCube)
