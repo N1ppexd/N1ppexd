@@ -1,6 +1,6 @@
 # Hi, I'm Niilo (N1ppexd) 👋
 
-I'm a game developer and information technology student with more than a decade of experience creating games in Unity. I started programming to make games, and I enjoy building gameplay systems, solving technical challenges, and collaborating with indie teams.
+I'm a game developer and information technology student with lots of experience creating games in Unity. I started programming to make games, and I enjoy building gameplay systems, solving technical challenges, and collaborating with indie teams.
 
 ## Game development
 
